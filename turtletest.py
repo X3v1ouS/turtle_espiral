@@ -1,6 +1,5 @@
 import turtle
 
-
 colors = ["red", "white", "blue", "green", "yellow", "orange"]
 
 pes = turtle.Pen()
